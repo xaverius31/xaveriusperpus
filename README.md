@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Perpustakaan Universitas Andalas</title>
+        <title>Perpustakaan Universitas Sumatera Utara</title>
     <!-- css link -->
     <link rel="stylesheet"> <a href="style.css"></a></link>
 </head>
@@ -11,7 +11,7 @@
 <body>
 <style>
     body {
-    background-image: url("https://wallpapercave.com/wp/wp4735271.jpg");
+    background-image: url("https://i.postimg.cc/g0cTf4Mx/foto-perpustakaan.webp");
     background-repeat: no-repeat;
     background-size: 100% 100%;
     background-attachment: fixed;

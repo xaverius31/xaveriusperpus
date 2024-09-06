@@ -100,17 +100,17 @@ li.dropdown {
     </div></li>
 </ul>
 
-<p><center><u>Perpustakaan Rida Inayyah Br Surbakti</center></p></u>
+<p><center><u>Perpustakaan Xaverius Ujung</center></p></u>
 <p style="font-size: 25px"><h-2>Perkenalan</h2></p>
-<p style="font-size: 23px"><p style="margin-bottom: 50px">Perkenalkan, nama saya Rida Inayyah Br Surbakti dengan NIM 212201020. Ini adalah perpustakaan
+<p style="font-size: 23px"><p style="margin-bottom: 50px">Perkenalkan, nama Xaverius Doel Frinico Ujung NIM 222201031 . Ini adalah perpustakaan
 <i>homepage</i>
-<b>pertama</b> saya, karena saya baru belajar tentang cara membuat <b><i><a href=https://pustaka.unand.ac.id//> website perpustakaan UNAND</a></i></b>.
-<h-3>Berikut ini adalah gambar dari gedung Perpustakaan UNAND.</h3>
+<b>pertama</b> saya, karena saya baru belajar tentang cara membuat <b><i><a href=https://pustaka.unand.ac.id//> website perpustakaan USU</a></i></b>.
+<h-3>Berikut ini adalah gambar dari gedung Perpustakaan USU.</h3>
 </p>
 <h-4><center><img src="https://th.bing.com/th/id/OIP.NOq5ASfD01yMXZlNIPfEygAAAA?rs=1&pid=ImgDetMain" style="box-shadow: 3px 3px 3px rgba(0,0,0,0.8)" alt=/></h4>
 </p>
 <p style="margin-bottom: 50px">
-    <font color="white"><h-5><i>Perpustakaan UNAND</i></h5></font>
+    <font color="white"><h-5><i>Perpustakaan USU</i></h5></font>
 </p>
 </left>
 <p style="margin-bottom: 50px">
@@ -129,6 +129,6 @@ li.dropdown {
 <a href="https://instagram.com/qisschu?igshid=NzZlODBkYWE4Ng=="><img src="https://th.bing.com/th/id/R.03f40b67b63d9c1c1a5a792109bbc699?rik=8HhXk%2b5PP7XurQ&riu=http%3a%2f%2fpngimg.com%2fuploads%2finstagram%2finstagram_PNG10.png&ehk=%2f7%2ftghrL31GFpelB7DZvprao8IZHRvmhi0BpDsEAZgI%3d&risl=&pid=ImgRaw&r=0.png"  controls width="4%" alt=/></a>
 </p>
 </center>
-<footer><center><i>Rida Inayyah Br Surbakti - 212201023</center></footer></i>
+<footer><center><i>Xaverius D.F Ujung - 2222010231</center></footer></i>
 </body>
 </html>
